@@ -1,0 +1,15 @@
+D:\dsa-in-csharp\ReverseInteger\bin\Debug\net10.0\ReverseInteger.exe
+D:\dsa-in-csharp\ReverseInteger\bin\Debug\net10.0\ReverseInteger.deps.json
+D:\dsa-in-csharp\ReverseInteger\bin\Debug\net10.0\ReverseInteger.runtimeconfig.json
+D:\dsa-in-csharp\ReverseInteger\bin\Debug\net10.0\ReverseInteger.dll
+D:\dsa-in-csharp\ReverseInteger\bin\Debug\net10.0\ReverseInteger.pdb
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.AssemblyInfoInputs.cache
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.AssemblyInfo.cs
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.csproj.CoreCompileInputs.cache
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.sourcelink.json
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.dll
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\refint\ReverseInteger.dll
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.pdb
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ReverseInteger.genruntimeconfig.cache
+D:\dsa-in-csharp\ReverseInteger\obj\Debug\net10.0\ref\ReverseInteger.dll
